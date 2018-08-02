@@ -1,5 +1,5 @@
 // YOUR TASK: Add more pictures!
-var pictures = ['./imgs/dog.jpg', './imgs/download.jpeg', './imgs/download(1).jpeg', './imgs/download(2).jpeg', './imgs/download(3).jpeg', './imgs/download(4).jpeg'];
+var pictures = ['./imgs/dog.jpg', './imgs/download.jpeg', './imgs/download (1).jpeg', './imgs/download (2).jpeg', './imgs/download (3).jpeg', './imgs/download (4).jpeg'];
 
 var currentIndex = 0;
 
